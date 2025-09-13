@@ -1,6 +1,9 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
+### Postman Documentation Link:https://documenter.getpostman.com/view/39216496/2sB3HopzZy.
+
+### Deploy Link:- https://my-next-app-ma4b.onrender.com.
 
 First, run the development server:
 
